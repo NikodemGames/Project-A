@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 927bb6495287df646815ff07cf3ec331, type: 3}
+  m_Name: Unit3
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 4b8ac79055b2af4408f7a8ffd3b7610d, type: 3}
+  prefab: {fileID: 3330195023809366752, guid: a5ed3848039aff245b5913f0f6e513c1, type: 3}
+  name: Unit3
+  cost: 500
+  spawnDelay: 0
+  unitType: 1
